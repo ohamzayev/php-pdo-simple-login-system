@@ -1,0 +1,6 @@
+
+DirectoryIndex index.php
+AddDefaultCharset UTF-8
+Options -Indexes
+
+RewriteEngine On
